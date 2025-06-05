@@ -17,4 +17,4 @@ IT Apprentice at Sir Thomas Boughey Academy
 University:
 Currently studying at Staffordshire University (expected graduation 2028)
 Courses: AI and Robotics
-Skills: C++, Python, SQL
+Skills: C++, Python, SQL.
